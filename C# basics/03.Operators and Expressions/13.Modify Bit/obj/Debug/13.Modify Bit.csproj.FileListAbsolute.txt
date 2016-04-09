@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\bin\Debug\13.Modify Bit.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\obj\Debug\13.Modify Bit.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\bin\Debug\13.Modify Bit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\bin\Debug\13.Modify Bit.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\obj\Debug\13.Modify Bit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\13.Modify Bit\obj\Debug\13.Modify Bit.pdb

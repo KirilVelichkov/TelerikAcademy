@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\bin\Debug\09.TrapezoidsArea.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\bin\Debug\09.TrapezoidsArea.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\bin\Debug\09.TrapezoidsArea.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\obj\Debug\09.TrapezoidsArea.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\obj\Debug\09.TrapezoidsArea.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\09.TrapezoidsArea\obj\Debug\09.TrapezoidsArea.pdb

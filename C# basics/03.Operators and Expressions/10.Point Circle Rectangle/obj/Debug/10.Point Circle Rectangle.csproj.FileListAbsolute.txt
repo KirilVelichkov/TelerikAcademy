@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\10.Point Circle Rectangle\bin\Debug\10.Point Circle Rectangle.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\10.Point Circle Rectangle\bin\Debug\10.Point Circle Rectangle.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\10.Point Circle Rectangle\bin\Debug\10.Point Circle Rectangle.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\10.Point Circle Rectangle\obj\Debug\10.Point Circle Rectangle.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\10.Point Circle Rectangle\obj\Debug\10.Point Circle Rectangle.pdb

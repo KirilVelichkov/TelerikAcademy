@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

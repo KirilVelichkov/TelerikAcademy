@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

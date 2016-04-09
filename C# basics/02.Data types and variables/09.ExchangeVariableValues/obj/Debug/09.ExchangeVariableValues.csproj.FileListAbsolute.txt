@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

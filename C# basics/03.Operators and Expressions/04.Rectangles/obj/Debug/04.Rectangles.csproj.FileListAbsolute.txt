@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\04.Rectangles\bin\Debug\04.Rectangles.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\04.Rectangles\obj\Debug\04.Rectangles.pdb

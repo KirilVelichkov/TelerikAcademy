@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

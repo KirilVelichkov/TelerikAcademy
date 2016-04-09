@@ -1,0 +1,8 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\Introduction to Programming\bin\Debug\Introduction to Programming.exe.config
+D:\Telerik Academy\C# basics\Introduction to Programming\Introduction to Programming\bin\Debug\Introduction to Programming.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\Introduction to Programming\bin\Debug\Introduction to Programming.pdb
+D:\Telerik Academy\C# basics\Introduction to Programming\Introduction to Programming\obj\Debug\Introduction to Programming.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\Introduction to Programming\obj\Debug\Introduction to Programming.pdb
+D:\Telerik Academy\C# basics\01.Introduction to Programming\04.HelloCSharp\bin\Debug\Introduction to Programming.exe.config
+D:\Telerik Academy\C# basics\01.Introduction to Programming\04.HelloCSharp\obj\Debug\Introduction to Programming.exe
+D:\Telerik Academy\C# basics\01.Introduction to Programming\04.HelloCSharp\obj\Debug\Introduction to Programming.pdb

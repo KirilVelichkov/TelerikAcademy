@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\bin\Debug\12.Falling Rocks.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\bin\Debug\12.Falling Rocks.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\bin\Debug\12.Falling Rocks.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\obj\Debug\12.Falling Rocks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\obj\Debug\12.Falling Rocks.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\12.Falling Rocks\obj\Debug\12.Falling Rocks.pdb

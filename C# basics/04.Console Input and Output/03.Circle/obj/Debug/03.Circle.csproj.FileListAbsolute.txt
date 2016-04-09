@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\03.Circle\bin\Debug\03.Circle.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\03.Circle\bin\Debug\03.Circle.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\03.Circle\bin\Debug\03.Circle.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\03.Circle\obj\Debug\03.Circle.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\03.Circle\obj\Debug\03.Circle.pdb

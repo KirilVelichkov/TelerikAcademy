@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+D:\Telerik Academy\C# basics\Introduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+D:\Telerik Academy\C# basics\Introduction to Programming\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

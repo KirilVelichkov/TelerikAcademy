@@ -1,0 +1,2 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\16.LongSequence\bin\Debug\16.LongSequence.exe.config
+D:\Telerik Academy\C# basics\01.Introduction to Programming\16.LongSequence\bin\Debug\16.LongSequence.exe.config

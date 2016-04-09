@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\bin\Debug\01.Sum of 3 Digits.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\bin\Debug\01.Sum of 3 Digits.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\bin\Debug\01.Sum of 3 Digits.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\obj\Debug\01.Sum of 3 Digits.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\obj\Debug\01.Sum of 3 Digits.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\01.Sum of 3 Digits\obj\Debug\01.Sum of 3 Digits.pdb

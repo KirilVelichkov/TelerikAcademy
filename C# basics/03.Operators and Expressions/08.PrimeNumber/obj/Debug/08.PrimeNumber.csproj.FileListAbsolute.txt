@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\bin\Debug\08.PrimeNumber.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\obj\Debug\08.PrimeNumber.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\obj\Debug\08.PrimeNumber.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\08.PrimeNumber\obj\Debug\08.PrimeNumber.csprojResolveAssemblyReference.cache

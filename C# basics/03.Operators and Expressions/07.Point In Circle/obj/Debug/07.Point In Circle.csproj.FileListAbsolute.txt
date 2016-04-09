@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\07.Point In Circle\bin\Debug\07.Point In Circle.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\07.Point In Circle\bin\Debug\07.Point In Circle.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\07.Point In Circle\bin\Debug\07.Point In Circle.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\07.Point In Circle\obj\Debug\07.Point In Circle.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\07.Point In Circle\obj\Debug\07.Point In Circle.pdb

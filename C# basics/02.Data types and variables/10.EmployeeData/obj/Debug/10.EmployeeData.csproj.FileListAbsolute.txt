@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

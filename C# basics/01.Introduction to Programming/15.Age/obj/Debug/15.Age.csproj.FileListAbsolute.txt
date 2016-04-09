@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\15.Age\bin\Debug\15.Age.exe.config
+D:\Telerik Academy\C# basics\Introduction to Programming\15.Age\bin\Debug\15.Age.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\15.Age\bin\Debug\15.Age.pdb
+D:\Telerik Academy\C# basics\Introduction to Programming\15.Age\obj\Debug\15.Age.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\15.Age\obj\Debug\15.Age.pdb

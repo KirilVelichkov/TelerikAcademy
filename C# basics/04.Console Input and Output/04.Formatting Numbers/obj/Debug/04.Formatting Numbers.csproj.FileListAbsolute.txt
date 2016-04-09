@@ -1,0 +1,1 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\bin\Debug\04.Formatting Numbers.exe.config

@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

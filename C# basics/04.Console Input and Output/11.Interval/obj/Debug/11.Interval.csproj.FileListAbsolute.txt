@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\bin\Debug\11.Interval.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\bin\Debug\11.Interval.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\bin\Debug\11.Interval.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\obj\Debug\11.Interval.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\obj\Debug\11.Interval.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\11.Interval\obj\Debug\11.Interval.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.pdb

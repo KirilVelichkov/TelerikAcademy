@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\bin\Debug\11.Third Bit.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\bin\Debug\11.Third Bit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\bin\Debug\11.Third Bit.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\obj\Debug\11.Third Bit.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\obj\Debug\11.Third Bit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\11.Third Bit\obj\Debug\11.Third Bit.pdb

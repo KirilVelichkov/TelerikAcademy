@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\08.Numbers from 1 to N\bin\Debug\08.Numbers from 1 to N.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\08.Numbers from 1 to N\obj\Debug\08.Numbers from 1 to N.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\08.Numbers from 1 to N\obj\Debug\08.Numbers from 1 to N.pdb

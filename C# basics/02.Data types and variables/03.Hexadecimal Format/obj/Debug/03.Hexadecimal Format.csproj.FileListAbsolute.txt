@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\bin\Debug\03.Hexadecimal Format.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\bin\Debug\03.Hexadecimal Format.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\bin\Debug\03.Hexadecimal Format.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\obj\Debug\03.Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\obj\Debug\03.Hexadecimal Format.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\03.Hexadecimal Format\obj\Debug\03.Hexadecimal Format.pdb

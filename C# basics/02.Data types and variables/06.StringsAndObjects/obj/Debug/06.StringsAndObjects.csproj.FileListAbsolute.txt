@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

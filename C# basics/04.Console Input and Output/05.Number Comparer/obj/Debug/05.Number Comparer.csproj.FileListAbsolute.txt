@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\05.Number Comparer\bin\Debug\05.Number Comparer.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\05.Number Comparer\bin\Debug\05.Number Comparer.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\05.Number Comparer\bin\Debug\05.Number Comparer.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\05.Number Comparer\obj\Debug\05.Number Comparer.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\05.Number Comparer\obj\Debug\05.Number Comparer.pdb

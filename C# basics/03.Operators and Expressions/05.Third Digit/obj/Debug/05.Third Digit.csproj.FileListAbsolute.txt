@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\05.Third Digit\bin\Debug\05.Third Digit.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\05.Third Digit\bin\Debug\05.Third Digit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\05.Third Digit\bin\Debug\05.Third Digit.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\05.Third Digit\obj\Debug\05.Third Digit.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\05.Third Digit\obj\Debug\05.Third Digit.pdb

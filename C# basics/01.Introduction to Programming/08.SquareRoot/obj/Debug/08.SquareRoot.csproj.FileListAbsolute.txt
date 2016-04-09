@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+D:\Telerik Academy\C# basics\Introduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+D:\Telerik Academy\C# basics\Introduction to Programming\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\09.Sum of N Numbers\bin\Debug\09.Sum of N Numbers.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\09.Sum of N Numbers\bin\Debug\09.Sum of N Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\09.Sum of N Numbers\bin\Debug\09.Sum of N Numbers.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\09.Sum of N Numbers\obj\Debug\09.Sum of N Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\09.Sum of N Numbers\obj\Debug\09.Sum of N Numbers.pdb

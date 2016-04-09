@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\Introduction to Programming\05.PrintName\bin\Debug\05.PrintName.exe.config
+D:\Telerik Academy\C# basics\Introduction to Programming\05.PrintName\bin\Debug\05.PrintName.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\05.PrintName\bin\Debug\05.PrintName.pdb
+D:\Telerik Academy\C# basics\Introduction to Programming\05.PrintName\obj\Debug\05.PrintName.exe
+D:\Telerik Academy\C# basics\Introduction to Programming\05.PrintName\obj\Debug\05.PrintName.pdb

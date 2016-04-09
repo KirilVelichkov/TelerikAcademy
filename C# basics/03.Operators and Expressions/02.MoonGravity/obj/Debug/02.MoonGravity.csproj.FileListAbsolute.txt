@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\02.MoonGravity\bin\Debug\02.MoonGravity.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\02.MoonGravity\bin\Debug\02.MoonGravity.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\02.MoonGravity\bin\Debug\02.MoonGravity.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\02.MoonGravity\obj\Debug\02.MoonGravity.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\02.MoonGravity\obj\Debug\02.MoonGravity.pdb

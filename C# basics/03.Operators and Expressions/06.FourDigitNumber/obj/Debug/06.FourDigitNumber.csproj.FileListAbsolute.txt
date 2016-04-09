@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\03.Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+D:\Telerik Academy\C# basics\03.Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+D:\Telerik Academy\C# basics\03.Operators and Expressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+D:\Telerik Academy\C# basics\03.Operators and Expressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

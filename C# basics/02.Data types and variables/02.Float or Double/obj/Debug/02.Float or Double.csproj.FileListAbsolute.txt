@@ -1,0 +1,1 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\02.Float or Double\bin\Debug\02.Float or Double.exe.config

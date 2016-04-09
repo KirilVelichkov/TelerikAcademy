@@ -1,0 +1,5 @@
+D:\Telerik Academy\C# basics\04.Console Input and Output\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\07.Sum of 5 Numbers\bin\Debug\07.Sum of 5 Numbers.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\07.Sum of 5 Numbers\obj\Debug\07.Sum of 5 Numbers.pdb

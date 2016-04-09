@@ -1,0 +1,6 @@
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\bin\Debug\01.Declare Variables.exe.config
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\obj\Debug\01.Declare Variables.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\bin\Debug\01.Declare Variables.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\bin\Debug\01.Declare Variables.pdb
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\obj\Debug\01.Declare Variables.exe
+D:\Telerik Academy\C# basics\02.Data types and variables\01.Declare Variables\obj\Debug\01.Declare Variables.pdb
