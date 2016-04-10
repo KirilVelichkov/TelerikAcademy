@@ -1,1 +1,5 @@
 D:\Telerik Academy\C# basics\04.Console Input and Output\02.Company Info\bin\Debug\02.Company Info.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\02.Company Info\bin\Debug\02.Company Info.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\02.Company Info\bin\Debug\02.Company Info.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\02.Company Info\obj\Debug\02.Company Info.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\02.Company Info\obj\Debug\02.Company Info.pdb

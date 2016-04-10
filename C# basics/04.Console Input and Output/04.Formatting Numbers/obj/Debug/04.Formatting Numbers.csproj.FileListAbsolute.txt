@@ -1,1 +1,6 @@
 D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\bin\Debug\04.Formatting Numbers.exe.config
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\bin\Debug\04.Formatting Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\bin\Debug\04.Formatting Numbers.pdb
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\obj\Debug\04.Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\obj\Debug\04.Formatting Numbers.exe
+D:\Telerik Academy\C# basics\04.Console Input and Output\04.Formatting Numbers\obj\Debug\04.Formatting Numbers.pdb

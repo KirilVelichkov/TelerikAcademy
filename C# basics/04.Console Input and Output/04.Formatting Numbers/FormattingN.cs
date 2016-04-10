@@ -1,16 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
+using System.Threading;
 
-namespace _04.Formatting_Numbers
+public class FormattingN
 {
-    class FormattingN
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
-            //to do
-        }
+        Thread.CurrentThread.CurrentCulture = CultureInfo.InstalledUICulture;
+
+        uint firstNumber = uint.Parse(Console.ReadLine());
+        double secondNumber = double.Parse(Console.ReadLine());
+        double thirdNumber = double.Parse(Console.ReadLine());
+
+        var firstToBinary = Convert.ToString(firstNumber, 2).PadLeft(10, '0');
+
+        string output = "{0,-10:X}|{1}|{2,10:F2}|{3,-10:F3}|";
+
+        Console.WriteLine(output, firstNumber, firstToBinary, secondNumber, thirdNumber);
     }
 }

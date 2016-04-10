@@ -10,13 +10,11 @@ namespace _04.Company_Info
     {
         static void Main()
         {
-            //to do
-
             string companyName = Console.ReadLine();
             string companyAdress = Console.ReadLine();
             string phoneNumber = Console.ReadLine();
             string faxNumber = Console.ReadLine();
-            if (faxNumber == String.Empty) faxNumber = "Fax: (no fax)";
+            if (faxNumber == String.Empty) faxNumber = "(no fax)";
             string webSite = Console.ReadLine();
             string mFirstName = Console.ReadLine();
             string mLastName = Console.ReadLine();
@@ -24,10 +22,11 @@ namespace _04.Company_Info
             string managerPhone = Console.ReadLine();
 
             Console.WriteLine(companyName);
-            Console.WriteLine("Adress: {0}", companyAdress);
-            Console.WriteLine("Tel. +{0}", phoneNumber);
-
-
+            Console.WriteLine("Address: {0}", companyAdress);
+            Console.WriteLine("Tel. {0}", phoneNumber);
+            Console.WriteLine("Fax: {0}", faxNumber);
+            Console.WriteLine("Web site: {0}", webSite);
+            Console.WriteLine("Manager: {0} {1} (age: {2}, tel. {3})", mFirstName, mLastName, managerAge, managerPhone);
 
 
 

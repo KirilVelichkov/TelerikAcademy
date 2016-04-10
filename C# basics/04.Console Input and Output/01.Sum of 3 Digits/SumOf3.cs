@@ -7,7 +7,7 @@ namespace _01.Sum_of_3_Numbers
 {
     static class SumOf3
     {
-         
+
         static void Main()
         {
             double a = double.Parse(Console.ReadLine());
@@ -15,5 +15,6 @@ namespace _01.Sum_of_3_Numbers
             double c = double.Parse(Console.ReadLine());
             double sum = a + b + c;
             Console.Write(sum);
+        }
     }
 }
