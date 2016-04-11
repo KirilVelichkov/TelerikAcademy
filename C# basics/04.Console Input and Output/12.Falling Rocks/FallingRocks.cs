@@ -29,6 +29,7 @@ namespace _12.Falling_Rocks
             Console.ForegroundColor = color;
             Console.Write(str);
         }
+
         static void Main()
         {
             int playfieldWidth = 40;
@@ -36,6 +37,7 @@ namespace _12.Falling_Rocks
             int count = 0;
             int score = 0;
             int level = 1;
+            bool Life = false;
             Console.BufferHeight = Console.WindowHeight = 15;
             Console.BufferWidth = Console.WindowWidth = 60;
             Rocks dwarf = new Rocks();
@@ -44,30 +46,47 @@ namespace _12.Falling_Rocks
             dwarf.symbol = '@';
             dwarf.color = ConsoleColor.Green;
             Console.SetCursorPosition(dwarf.col, dwarf.row);
-            //PrintPosition(dwarf.col, dwarf.row, dwarf.symbol, dwarf.color);
             Random RNG = new Random();
             List<Rocks> rocks = new List<Rocks>();
-            
+
             while (true)
             {
                 bool hitted = false;
                 {
                     Rocks newRocks = new Rocks();
-                    newRocks.color = ConsoleColor.Magenta;
-                    newRocks.col = RNG.Next(0, playfieldWidth);
+                    //newRocks.color = ConsoleColor.Magenta;
+                    newRocks.color = ConsoleColor.Gray;
+                    newRocks.col = RNG.Next(0, playfieldWidth+1);
                     newRocks.row = 0;
                     newRocks.symbol = '#';
                     rocks.Add(newRocks);
-                    newRocks.color = ConsoleColor.Yellow;
-                    newRocks.col = RNG.Next(0, playfieldWidth);
+                    //newRocks.color = ConsoleColor.Yellow;
+                    newRocks.color = ConsoleColor.Gray;
+                    newRocks.col = RNG.Next(0, playfieldWidth+1);
                     newRocks.row = 0;
                     newRocks.symbol = '$';
                     rocks.Add(newRocks);
-                    newRocks.color = ConsoleColor.Blue;
-                    newRocks.col = RNG.Next(0, playfieldWidth);
+                    //newRocks.color = ConsoleColor.Blue;
+                    newRocks.color = ConsoleColor.Gray;
+                    newRocks.col = RNG.Next(0, playfieldWidth+1);
                     newRocks.row = 0;
                     newRocks.symbol = '!';
                     rocks.Add(newRocks);
+                    //newRocks.color = ConsoleColor.Cyan;
+                    newRocks.color = ConsoleColor.Gray;
+                    newRocks.col = RNG.Next(0, playfieldWidth+1);
+                    newRocks.row = 0;
+                    newRocks.symbol = '*';
+                    rocks.Add(newRocks);
+                    if (Life)
+                    {
+                        newRocks.color = ConsoleColor.Green;
+                        newRocks.col = RNG.Next(0, playfieldWidth+1);
+                        newRocks.row = 0;
+                        newRocks.symbol = '@';
+                        rocks.Add(newRocks);
+                        Life = false;
+                    }
                 }
                 if (Console.KeyAvailable)
                 {
@@ -82,7 +101,7 @@ namespace _12.Falling_Rocks
                     }
                     if (pressedKey.Key == ConsoleKey.RightArrow)
                     {
-                        if (dwarf.col - 1 <= playfieldWidth)
+                        if (dwarf.col < playfieldWidth)
                         {
                             dwarf.col++;
                         }
@@ -97,26 +116,38 @@ namespace _12.Falling_Rocks
                     newRocks.row = oldRock.row + 1;
                     newRocks.symbol = oldRock.symbol;
                     newRocks.color = oldRock.color;
-                    if (newRocks.col == dwarf.col && newRocks.row == dwarf.row)
+                    
+                    if (i < 4)
                     {
-                        hitted = true;
-                        Console.Beep();
-                        livesCount--;
-                        if (livesCount < 1)
+                        if (rocks[i].col == dwarf.col && rocks[i].row == dwarf.row)
                         {
-                            Console.Beep(1000,500);
-                            PrintScoreBoard(playfieldWidth / 2, Console.WindowHeight / 2, "GAME OVER!", ConsoleColor.Red);
-                            PrintScoreBoard(playfieldWidth / 2, Console.WindowHeight / 2 + 2, "Press [enter] to exit!", ConsoleColor.Red);
-                            Console.ReadLine();
-                            return;
+                            hitted = true;
+                            Console.Beep();
+                            livesCount--;
                         }
+                    }
+                    else
+                    {
+                        if ((rocks[i].col == dwarf.col && rocks[i].row == dwarf.row))
+                        {
+                            
+                            livesCount++;
+                        }
+                    }
+                    if (livesCount < 1)
+                    {
+                        Console.Beep(1000, 500);
+                        PrintScoreBoard(playfieldWidth / 2, Console.WindowHeight / 2, "GAME OVER!", ConsoleColor.Red);
+                        PrintScoreBoard(playfieldWidth / 2, Console.WindowHeight / 2 + 2, "Press [enter] to exit!", ConsoleColor.Red);
+                        Console.ReadLine();
+                        return;
                     }
                     if (newRocks.row < Console.WindowHeight)
                     {
                         newList.Add(newRocks);
                     }
                     //Score count
-                     if(newRocks.row > Console.WindowHeight-1)
+                    if (newRocks.row > Console.WindowHeight - 1)
                     {
                         count++;
                     }
@@ -124,7 +155,7 @@ namespace _12.Falling_Rocks
 
                 rocks = newList;
                 Console.Clear();
-                
+
                 foreach (Rocks rock in rocks)
                 {
                     PrintPosition(rock.col, rock.row, rock.symbol, rock.color);
@@ -143,6 +174,7 @@ namespace _12.Falling_Rocks
                     if (score % 50 == 0)
                     {
                         level++;
+                        Life = true;
                     }
                 }
                 PrintScoreBoard(47, 3, "Lives:", ConsoleColor.Green);
@@ -155,7 +187,7 @@ namespace _12.Falling_Rocks
                 {
                     PrintScoreBoard(41, i, "|", ConsoleColor.DarkGray);
                 }
-                Thread.Sleep(200-level);
+                Thread.Sleep(200 - (level * 10));
             }
         }
     }
