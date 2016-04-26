@@ -10,13 +10,6 @@ class Batman
         int width = 3 * s;
         int wings_ears = ((width - ((s - 1) * 2) - 2) / 2) - 1;
 
-        //char[,] batman = new char[s, s];
-        //#####     #####  0) s#  s' '  s#
-        // #### # # ####   1) s-1#  ((width - ((s-1) * 2) - 2) /2) - 1  s-1#
-        //  ###########
-        //      ###
-        //       #
-
         //print top;
         for (int i = 1; i <= (s / 2); i++)
         {
@@ -39,8 +32,6 @@ class Batman
             Console.WriteLine();
         }
 
-
-
         //print middle
         for (int i = 1; i <= (s / 3); i++)
         {
@@ -49,8 +40,6 @@ class Batman
             Console.Write(new string(' ', s / 2));
             Console.WriteLine();
         }
-
-
 
         //print bottom
         for (int i = 1; i <= (s / 2); i++)

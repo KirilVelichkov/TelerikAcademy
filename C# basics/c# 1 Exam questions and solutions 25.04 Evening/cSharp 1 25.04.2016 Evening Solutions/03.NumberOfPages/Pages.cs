@@ -1,8 +1,6 @@
 ﻿using System;
 
-
-
-class Pages
+class Pages 
 {
     static void Main()
     {

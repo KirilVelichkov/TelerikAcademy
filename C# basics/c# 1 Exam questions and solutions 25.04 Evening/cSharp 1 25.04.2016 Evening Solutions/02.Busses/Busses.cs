@@ -1,7 +1,6 @@
 ﻿using System;
 
 
-
 class Busses
 {
     static void Main()
@@ -23,6 +22,5 @@ class Busses
             }
         }
         Console.WriteLine(counter);
-
     }
 }

@@ -48,7 +48,6 @@ class BobiAvokadoto
 
     }
 
-
     public static uint BitInPossition(uint number, uint bitPossition)
     {
         int mask = 1 << (int)bitPossition;
