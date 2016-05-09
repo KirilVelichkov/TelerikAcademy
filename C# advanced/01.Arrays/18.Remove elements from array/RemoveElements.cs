@@ -34,8 +34,6 @@ namespace _18.Remove_elements_from_array
                 dp[i] = dp[i] + maxSizeOfSubseq;
             }
           
-
-            //Now find the Max Size Of Subsequence amongst all computes subsequence lengths
             maxSizeOfSubseq = 0;
             for (int count = 0; count < dp.Length; ++count)
             {
@@ -46,29 +44,7 @@ namespace _18.Remove_elements_from_array
             }
 
             Console.WriteLine(N - maxSizeOfSubseq);
-
-            //int maxNumber = arr.Max();
-            //int maxNumberIndex = arr.ToList().IndexOf(maxNumber);
-
-            //for (int i = 1; i < N; i++)
-            //{
-            //    for (int j = 0; j < N; j++)
-            //    {
-            //        if(arr[i] > arr[j])
-            //        {
-            //            break;
-            //        }
-            //    }
-            //}
-
-            //foreach (int n in arr)
-            //{
-            //    Console.WriteLine(n);
-            //}
-
-            //arr = arr.Where(val => val != 0).ToArray();
-            //Console.WriteLine(arr.Length);
-
+            
         }
     }
 }
