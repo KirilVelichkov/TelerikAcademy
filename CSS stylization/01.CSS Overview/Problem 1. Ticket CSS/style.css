@@ -1,0 +1,41 @@
+table {
+  background-color: #595959;
+  width: 305px;
+}
+#ticket{
+  background-color: #595959;
+  width: 305px;
+  color: #bbbbbb;
+  font-size: 18px;
+}
+td{
+  font-size: 12px;
+  padding-bottom: 5px;
+
+}
+.firstCol{
+  color: white;
+  font-style:italic;
+  width: 90px;
+}
+#dot{
+  width:10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #71B47A;
+  display: inline-block;
+}
+.yellow{
+  color: #D2D08B;
+}
+.red{
+  color: #D60B11;
+  font-weight: bold;
+}
+.grey{
+  color: #bbbbbb;
+}
+.orange{
+  color: #DE6B1C;
+  font-weight: bold;
+}

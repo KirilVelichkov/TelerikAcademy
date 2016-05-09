@@ -1,0 +1,52 @@
+body{
+  background-color: #A9A9A9;
+}
+body>header{
+    text-align: center;
+    font-size:22px;
+}
+article>header>h1{
+  font-size:22px;
+}
+ul{
+  list-style-type:none;
+}
+h1{
+  color:#FAFAD2;
+}
+a{
+  text-decoration: none;
+}
+article:nth-of-type(2){
+  display:none;
+}
+li>a{
+  font-weight: bold;
+  color:white;
+  font-size:22px;
+}
+.current{
+  background-color: #D3D3D3;
+}
+li:last-child>a{
+  text-decoration: underline;
+}
+footer{
+  font-size:14px;
+}
+p>a{
+    display:none;
+}
+p:after{
+  content: 'Doncho Minkov';
+}
+article>p{
+  white-space:nowrap;
+  width: 54.5em;
+  overflow:hidden;
+  text-overflow: clip;
+}
+body>footer{
+  text-align: center;
+  font-size:18px;
+}

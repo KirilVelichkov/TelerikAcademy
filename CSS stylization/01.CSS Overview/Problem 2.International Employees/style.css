@@ -1,0 +1,43 @@
+img{
+  width:20px;
+  height: 15px;
+}
+table{
+  border-spacing: 0px;
+  font-size:12px;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+#header{
+  background-color: #56B906;
+}
+.head{
+  color:white;
+  border-bottom: 1px solid #C8C6B0;
+}
+tr:nth-child(odd) {
+  background-color: #ECECD8;
+}
+tr:nth-child(even) {
+  background-color: #FFFFFF;
+}
+.firstcol{
+  width:130px;
+}
+.secondCol{
+  width:100px;
+}
+.thirdCol{
+  width:115px;
+}
+.fourthCol{
+  width:73px;
+}
+.bottomBorder{
+  border-bottom: 1px solid #C8C6B0;
+}
+.borderRight{
+  border-right: 1px solid #C8C6B0;
+}
+td{
+  padding: 4px;
+}
