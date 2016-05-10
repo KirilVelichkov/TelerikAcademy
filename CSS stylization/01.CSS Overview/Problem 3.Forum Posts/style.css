@@ -42,7 +42,7 @@ p:after{
 }
 article>p{
   white-space:nowrap;
-  width: 54.5em;
+  width: 800px;
   overflow:hidden;
   text-overflow: clip;
 }
