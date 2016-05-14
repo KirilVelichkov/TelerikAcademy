@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 class SequenceInMatrix
 {
-    private static int endColIndex;
+
 
     static void Main()
     {
