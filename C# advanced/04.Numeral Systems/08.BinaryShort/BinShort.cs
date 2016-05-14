@@ -12,6 +12,7 @@ namespace _08.BinaryShort
         {
             short n = short.Parse(Console.ReadLine());
             Console.WriteLine(BinaryShort(n));
+
         }
         static string BinaryShort(short n)
         {

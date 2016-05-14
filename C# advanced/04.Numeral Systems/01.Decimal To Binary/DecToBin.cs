@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01.Dec_To_Binary
+namespace Dec_To_Binary
 {
     class DecToBin
     {
