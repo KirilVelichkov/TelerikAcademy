@@ -1,0 +1,17 @@
+
+li{
+  list-style-type: none;
+}
+
+.main-li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.main-li:hover + .nested-ul>li{
+    display: inherit;
+}
+.nested-ul>li{
+  cursor: default;
+  color: grey;
+  display: none;
+}

@@ -1,0 +1,9 @@
+div>div{
+    padding-right: 7%;
+    border: 1px solid red;
+    border-radius: 60px;
+    background-color: black;
+}
+#main{
+  width:660px;
+}

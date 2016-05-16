@@ -1,0 +1,23 @@
+body div {
+    font-variant: normal;
+    color: #0094ff;
+    font-size: 18px;
+    font-family: Consolas;
+}
+
+#FirstPharagraph {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Edwardian Script ITC";
+    src: url("fonts/EdwardianScriptITC.ttf");
+}
+
+#FirstPharagraph:first-letter {
+    font-size: 50px;
+    font-family: 'Edwardian Script ITC';
+}
+#SecondPharagraph{
+  width: 835px;
+}
