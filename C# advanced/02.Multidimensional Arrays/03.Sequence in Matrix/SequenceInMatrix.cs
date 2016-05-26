@@ -59,7 +59,17 @@ class SequenceInMatrix
         }
         #endregion
         #region Diagonals
+        /*
+        1 2 3 4 5 6 7
+        1 2 3 4 5 6 7
+        1 2 3 4 5 6 7
 
+        1 2
+        1 2
+        1 2
+        1 2
+      
+    */
         //right diagonal
         int a = N_M[0];
         int b = N_M[1];
@@ -76,7 +86,7 @@ class SequenceInMatrix
         {
             for (int j = start_b; j < stop_b - 1; j++)
             {
-               
+
                 //Console.Write("{0} {1} ", dRow - j, j + dCol);
                 if (matrix[dRow - j][j + dCol] == matrix[dRow - j - 1][j + dCol + 1])
                 {
@@ -115,7 +125,7 @@ class SequenceInMatrix
         {
             for (int j = start_b; j < stop_b - 1; j++)
             {
-                if (matrix[dRow - j][b - 1 - j + dCol] == matrix[dRow - j - 1][b - 1 - j + dCol -1])
+                if (matrix[dRow - j][b - 1 - j + dCol] == matrix[dRow - j - 1][b - 1 - j + dCol - 1])
                 {
                     count++;
                 }
@@ -148,4 +158,3 @@ class SequenceInMatrix
         }
     }
 }
-
